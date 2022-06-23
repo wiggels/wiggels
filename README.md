@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wiggels
+- 👋 Hi, I’m Hunter
 - 👀 I’m interested in systems automation (ansible/terraform)
 - 📫 My email is wiggels@gmail.com
 
