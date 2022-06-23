@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Hunter
-- 👀 I’m interested in systems automation (ansible/terraform)
-- 📫 My email is wiggels@gmail.com
+- 💻 I'm working as an **Infrastructure Reliability Engineer** @ **The University of Florida** 🐊
+- 👀 I’m interested in **systems automation**
+- 🌱 Currently learning **Golang**
+- ❤️ Open Source Software
 
 <!---
 wiggels/wiggels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
