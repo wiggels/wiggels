@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hunter
-- 💻 I'm working as an **Infrastructure Reliability Engineer** @ **The University of Florida** 🐊
+- 💻 I'm working as an **Site Reliability Engineer** @ **Vultr** ☁️
 - 👀 I’m interested in **systems automation**
 - 🌱 Currently learning **Golang**
 - ❤️ Open Source Software
