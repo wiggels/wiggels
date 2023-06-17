@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hunter
-- 💻 I'm working as a **Site Reliability Engineer** @ **Vultr** ☁️
 - 👀 I’m interested in **systems automation**
 - ❤️ Open Source Software
 
