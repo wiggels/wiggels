@@ -1,10 +1,10 @@
 # Welcome to My GitHub 💪
 
-I’m **Hunter**, a security engineering leader who doesn’t just dabble in cloud infrastructure — I *build* it, and I keep it locked down. I keep the systems running, the deployments smooth, the APIs happy, and the attackers disappointed.
+I’m **Hunter**, a security and software engineering leader who doesn’t just dabble in cloud infrastructure — I *build* it, and I keep it locked down. I keep the systems running, the deployments smooth, the APIs happy, and the attackers disappointed.
 
 ## What I Do 💥
 
-- **Head of Security Engineering** at NMC2, keeping the infrastructure locked down and the attackers disappointed.
+- **Head of Security Engineering** at **[NMC²](https://nmc2.com/)**, where I lead the charge on protecting the platform and everything running on it.
 - **Iterate on systems** so the cloud runs faster, smarter, and smoother.
 - **Build tools** and contribute to projects that empower developers worldwide.
 
