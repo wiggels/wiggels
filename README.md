@@ -1,10 +1,10 @@
 # Welcome to My GitHub 💪
 
-I’m **Hunter**, a software engineer who doesn’t just dabble in cloud infrastructure — I *build* it. I keep the systems running, the deployments smooth, the APIs happy, and the customers spending money. If you want someone who can spot a race condition at 2 a.m. or automate your worst nightmare, I’m your person.
+I’m **Hunter**, a security engineering leader who doesn’t just dabble in cloud infrastructure — I *build* it, and I keep it locked down. I keep the systems running, the deployments smooth, the APIs happy, and the attackers disappointed.
 
 ## What I Do 💥
 
-- **Lead a team** of people focused on hypervisors, APIs, and core infrastructure at Vultr.
+- **Head of Security Engineering** at NMC2, keeping the infrastructure locked down and the attackers disappointed.
 - **Iterate on systems** so the cloud runs faster, smarter, and smoother.
 - **Build tools** and contribute to projects that empower developers worldwide.
 
